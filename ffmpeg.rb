@@ -1,7 +1,7 @@
 class Ffmpeg < Formula
   desc "Play, record, convert, and stream audio and video"
   homepage "https://ffmpeg.org/"
-  url "https://ffmpeg.org/releases/ffmpeg-4.0.2.tar.xz"
+  url "https://github.com/blindee/homebrew-tap/raw/master/bottles/ffmpeg-4.0.2.el_capitan.bottle.tar.gz"
   sha256 "a95c0cc9eb990e94031d2183f2e6e444cc61c99f6f182d1575c433d62afb2f97"
   head "https://github.com/FFmpeg/FFmpeg.git"
 
